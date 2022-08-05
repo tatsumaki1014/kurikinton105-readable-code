@@ -28,3 +28,28 @@ $ python3 dictionary.py
 ## 期待する結果
 
 上手
+
+# 仕様4の実行方法
+
+$ cat dictionary-data.txt
+
+dictionary-data.txt内にUTF-8で単語情報を入力
+1行に1単語入力する
+
+例
+```
+上手
+一時
+市場
+```
+
+# 入力
+
+なし
+
+#　期待する結果
+
+上手
+一時
+市場
+
